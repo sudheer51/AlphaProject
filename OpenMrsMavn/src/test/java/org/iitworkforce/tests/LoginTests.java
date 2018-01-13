@@ -21,6 +21,7 @@ import org.testng.annotations.Test;
 public class LoginTests 
 {
 	static ChromeDriver driver;
+	//Fixed the compilation issues in this new branch
 
 	@BeforeClass
 	public void loadConfiguration() throws IOException
