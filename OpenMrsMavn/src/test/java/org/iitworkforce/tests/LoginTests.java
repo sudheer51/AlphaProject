@@ -15,7 +15,7 @@ import org.testng.annotations.Test;
  * Test Steps
  * 1. 
  * method1: name 
- * @author qa
+ * 
  *
  */
 public class LoginTests 
