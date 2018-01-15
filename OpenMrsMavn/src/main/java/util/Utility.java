@@ -7,7 +7,7 @@ package util;
 	import java.util.Properties;
 	
 	public class Utility {
-	
+		//add utility	
 		public static Properties pro;
 		
 		public static void readPropertyFile( ) throws IOException
